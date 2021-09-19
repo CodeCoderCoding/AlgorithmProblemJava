@@ -1,4 +1,4 @@
-package DP.UnboundedKnapsack;
+package B7DP.B72UnboundedKnapsack;
 
 /**
  * @author supremepole

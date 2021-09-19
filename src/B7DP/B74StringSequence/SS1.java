@@ -1,4 +1,4 @@
-package DP.StringSequence;
+package B7DP.B74StringSequence;
 
 /**
  * @author supremepole

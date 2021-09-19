@@ -1,4 +1,4 @@
-package DP.ZeroOneKnapsack;
+package B7DP.B71ZeroOneKnapsack;
 
 /**
  * @author supremepole

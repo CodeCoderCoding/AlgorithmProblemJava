@@ -4,15 +4,6 @@ import java.util.*;
  * 二叉树的层序遍历
  * @author CodeCoderCoding
  */
-class TreeNode {
-    int val;
-    TreeNode left;
-    TreeNode right;
-
-    TreeNode(int x) {
-        val = x;
-    }
-};
 
 public class BinaryTreeLevelOrder {
     public static List<List<Integer>> traverse(TreeNode root) {

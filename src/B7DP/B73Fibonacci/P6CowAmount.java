@@ -4,7 +4,7 @@ package B7DP.B73Fibonacci;
  * @author CodeCoderCoding
  * 母牛数量问题
  */
-public class CowAmount {
+public class P6CowAmount {
     public static void main(String[] args) {
         System.out.println(cowNums(6));//9
     }

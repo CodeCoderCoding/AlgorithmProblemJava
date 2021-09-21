@@ -1,7 +1,7 @@
 package B7DP.B73Fibonacci;
 
 /**
- * @author supremepole
+ * @author CodeCoderCoding
  * 母牛数量问题
  */
 public class CowAmount {

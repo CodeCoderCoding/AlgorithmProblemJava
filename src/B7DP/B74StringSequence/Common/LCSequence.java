@@ -1,10 +1,10 @@
-package B7DP.B74StringSequence;
+package B7DP.B74StringSequence.Common;
 
 /**
- * @author supremepole
+ * @author CodeCoderCoding
  * 最长公共子序列
  */
-public class SS2 {
+public class LCSequence {
     public int findLCSLength(String s1, String s2) {
         return findLCSLengthRecursive(s1, s2, 0, 0);
     }
@@ -23,7 +23,7 @@ public class SS2 {
     }
 
     public static void main(String[] args) {
-        SS2 ss2 = new SS2();
+        LCSequence ss2 = new LCSequence();
 
         System.out.println(ss2.findLCSLength("abdca", "cbda"));//3
         System.out.println(ss2.findLCSLength("passport", "ppsspt"));//5
